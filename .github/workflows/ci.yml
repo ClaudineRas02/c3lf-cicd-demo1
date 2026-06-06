@@ -1,7 +1,7 @@
 name: CI — Tests automatiques
 
 on:
-  push: # se déclenche à chaque push
+  push:
   pull_request: # se déclenche à chaque Pull Request
 
 # ─── VARIABLES : config visible, non-sensible ──────────

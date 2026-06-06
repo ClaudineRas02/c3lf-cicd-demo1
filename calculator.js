@@ -1,6 +1,6 @@
 // Logique métier — fonctions pures, faciles à tester
 function add(a, b) {
-  return a + b; // ← bug démo : essaie a + b + 1
+  return a + b + 1; // ← bug démo : essaie a + b + 1
 }
 function subtract(a, b) {
   return a - b;
